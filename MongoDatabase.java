@@ -7,13 +7,6 @@
  * Rev: 1.0
  */
 
-import com.mongodb.MongoClient;
-import com.mongodb.client.MongoCollection;
-import com.mongodb.client.MongoDatabase;
-import org.bson.Document;
-
-import static com.mongodb.client.model.Filters.eq;
-
 public class MongoDatabase {
 
     /**
